@@ -38,6 +38,10 @@ body {
     border: 7px solid white;
     position: relative;
     top: -15%;
+
+    width: 96px;
+    height: 96px;
+    object-fit: cover;
 }
 
 .name-age {
